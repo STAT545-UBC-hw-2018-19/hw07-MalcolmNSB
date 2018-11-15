@@ -3,7 +3,8 @@ Stat 547 HW07 Repository
 
 Hello! In this repository you will find the relevant documents for my [Homework 7](http://stat545.com/Classroom/assignments/hw07/hw07.html) submission of [Stat 547](http://stat545.com/Classroom/).
 
-You will find my forked version of the powers package at [https://github.com/MalcolmNSB/powers](https://github.com/MalcolmNSB/powers) . Please visit that repo for instructions :smiley: .
+You will find my forked version of the powers package at [https://github.com/MalcolmNSB/powers](https://github.com/MalcolmNSB/powers) . Please visit that repo for instructions (including installation instructions) :smiley:.
+
 
 
 
